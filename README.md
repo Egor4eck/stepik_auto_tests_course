@@ -1,1 +1,1 @@
-# stepik_auto_tests_course
+<h1>Hello,World!</h1>
